@@ -1,4 +1,4 @@
-package DBIx::Class::Schema::ERD;
+package DBIx::Class::Helper::Schema::ERD;
 
 use warnings;
 use strict;
